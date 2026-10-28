@@ -1,0 +1,13 @@
+node_modules/
+*.tgz
+*.zip
+.env*
+client.json
+tokens.json
+token-refresh.lock
+authorization-*.json
+private-results/
+coverage/
+*.mp3
+*.wav
+.DS_Store
